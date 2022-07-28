@@ -29,5 +29,5 @@ https://luqxcz.github.io/passenger-counter/
 ![Homepage](./screenshots/smaller-screen.png?raw=true "homepage")
 
 ### Counting Passengers
-![Counting Passeneger](./screenshots/smaller-screen.png?raw=true "counting passenegr")
+![Counting Passeneger](./screenshots/counting-passenger.png?raw=true "counting passenegr")
 
